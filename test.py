@@ -3,4 +3,4 @@ def func(test):
     return True
 
 def BBB(abc):
-    return true
+    return True
